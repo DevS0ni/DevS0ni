@@ -3,15 +3,11 @@
 <h3 align="center">A passionate Software Developer from Toronto, Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devs0ni&label=Profile%20views&color=0e75b6&style=flat" alt="devs0ni" /> 
-<img align="right" alt="programming_gif" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devs0ni" alt="devs0ni" /></a> </p>
-
 - 🌱 I’m currently a student at **Seneca College of Applied Arts & Technology**
 
 - 📫 How to reach me **soni.devk19@gmail.com**
+<img align="right" alt="programming_gif" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"></p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
