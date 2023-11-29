@@ -1,3 +1,4 @@
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif))]
 <h1 align="center">Hi 👋, I'm Dev Soni (Infernalkin)</h1>
 <h3 align="center">A passionate frontend developer from Toronto, Canada</h3>
 <img align="right" alt="programming_gif" width="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
