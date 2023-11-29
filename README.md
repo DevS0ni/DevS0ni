@@ -1,3 +1,4 @@
+![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://images.unsplash.com/photo-1605379399642-870262d3d051?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZGV2ZWxvcGVyfGVufDB8fDB8fHww)
 <h1 align="center">Hi 👋, I'm Dev Soni (Infernalkin)</h1>
 <h3 align="center">A passionate frontend developer from Toronto, Canada</h3>
 <img align="right" width="400" height="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
