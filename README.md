@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently a student at **Seneca College of Applied Arts & Technology**
 
-- 📫 How to reach me **soni.devk19@gmail.com**
+- 📫 How to reach me **dsoni30a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
