@@ -8,6 +8,8 @@
 - 🏆 Secured 4.0/ 4.0 GPA and awarded President's Honour List Award (Summer 2022)
 - 🏆 Runner-Up at Seneca Sustainability Hackathon 2022 (March 2022)
 - 🧳 Currently working as IT Tech Support at LaSpesa Food Market & Specialties (Jan 2022 - Current)
+- 📝 I regularly write articles on <a href="https://tan-wicked-fish.cyclic.app/blog" target="_blank">InkChronicle-DevSoni's Web Blog Application</a>
+- 💬 Want to know more about my coding journey or have questions about my projects? Ask me anything!
 - 📫 How to reach me **dsoni30a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
