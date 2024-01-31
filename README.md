@@ -14,7 +14,10 @@
 - 📫 How to reach me **dsoni30a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/dev-soni-4114a521a/))
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-soni-4114a521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-soni-4114a521a/" height="30" width="40" /></a>
+</p>
+
 <p align="left">
 </p>
 
