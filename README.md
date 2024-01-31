@@ -4,8 +4,10 @@
 <img align="right" width="400" height="400" src="https://cdn.dribbble.com/users/1708950/screenshots/4188877/developer_med.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devs0ni&label=Profile%20views&color=0e75b6&style=flat" alt="devs0ni" /> </p>
 
-- 🌱 I’m currently a student at **Seneca College of Applied Arts & Technology**
-
+- 🌱 I am a recent grad from **Seneca College of Applied Arts & Technology** pursued Computer Science Diploma (Jan 2022 - Jan 2024)
+- 🏆 Secured 4.0/ 4.0 GPA and awarded President's Honour List Award (Summer 2022)
+- 🏆 Runner-Up at Seneca Sustainability Hackathon 2022 (March 2022)
+- 🧳 Currently working as IT Tech Support at LaSpesa Food Market & Specialties (Jan 2022 - Current)
 - 📫 How to reach me **dsoni30a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
