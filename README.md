@@ -11,6 +11,7 @@
 - 📫 How to reach me **dsoni30a@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/dev-soni-4114a521a/))
 <p align="left">
 </p>
 
